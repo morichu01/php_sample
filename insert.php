@@ -1,4 +1,5 @@
 <?php
+// 関数読み込み
 include('functions.php');
 
 // 入力チェック
